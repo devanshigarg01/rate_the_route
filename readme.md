@@ -1,4 +1,12 @@
+# Rate the Route: Navigating Visual Place Recognition in MixVPR with Dynamic Learning Rate Scheduling
 
+## Contributors: Group DMV
+- Devanshi Garg
+- Dishita Bansal
+- Meghana Asok
+- Mitali Potdar
+- Vinda Kunte
+  
 ## Introduction
 
 Welcome to our project! This notebook was run in Kaggle, and if you want to run it locally, there are a few changes you'll need to make. 
